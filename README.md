@@ -33,8 +33,8 @@
 
 ## **Github Stats**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frhnn772&layout=compact&theme=dark#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=frhnn772&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=frhnn772&theme=dark#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frhnn772&layout=compact&theme=dark#gh-dark-mode-only) <br/>
+![](https://github-readme-stats.vercel.app/api?username=frhnn772&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=frhnn772&theme=dark#gh-dark-mode-only) <br/>
 
 </details>
