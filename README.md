@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/farhan.mulyaputra/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan772ajaa@gmail.com)
 
-## **Tech I've been eworking with:**
+## **Tech I've been working with:**
 | **Technology** 💻 | **Experience** 🚀 |
 | :-- | :--: |
 | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 1 Years 8 Month
