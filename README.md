@@ -1,4 +1,5 @@
-# Hi I'm [Farhan Mulyaputra](https://frhnn772.netlify.app) 👨🏻‍💻
+<p align="center"><a href="https://frhnn772.netlify.app" target="_blank"><img width="100%" alt="Hello, I'm Farhan Mulyaputra. Web Dev | UI/UX Designer" src="./assets/header.jpg" /></a></p>
+
 
 ## **About Me**
 * I've an interest in software development
@@ -8,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frhnn772)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/farhan.mulyaputra/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan772ajaa@gmail.com)
-
-<br/>
 
 ## **Tech I've been eworking with:**
 | **Technology** 💻 | **Experience** 🚀 |
@@ -23,18 +22,17 @@
 | ![Figma](https://img.shields.io/badge/figma-%231E1E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | 1 Years 2 Month
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=frhnn772&label=Github+Views&color=lightgrey&style=for-the-badge)
-
-<br/>
 <details>
  <summary><b>More Information</b></summary>
 <br/>
 
 ## **Github Stats**
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frhnn772&layout=compact&theme=dark#gh-dark-mode-only) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=frhnn772&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frhnn772&theme=dark#gh-dark-mode-only) <br/>
 
 </details>
+
+<br/>
+
+<img align=right src="https://komarev.com/ghpvc/?username=frhnn772&label=Github+Views&color=lightgrey&style=for-the-badge">
